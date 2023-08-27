@@ -1,1 +1,3 @@
 # Shipping-Sales-Project
+
+This ia data analysis and data visualization project on shipping data done exclusively on Microsoft Excel. I started off by performing some minor data hygiene and understanding the dataset. Next, I created a wireframe model of how I wanted the dashboard to look like along with what data I wanted to present. I created a bunch of pivot tables, calculation tables and charts in order to achieve that data in a rough work worksheet. Finally, I designed the dashboard by replacing the models in my wireframe with the respective data tables/charts and formatted the dashboard to be professional and interactive.
